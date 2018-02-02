@@ -3,8 +3,6 @@
 Accelerated Mobile Pages (AMP) URL API node.js library.  
 It is necessary to enable API on [Google Cloud Platform](https://cloud.google.com/) and obtain API key.
 
-CDN URLの取得や、WebアプリでAMPをサポートする際に
-
 ## Install
 
 ```
