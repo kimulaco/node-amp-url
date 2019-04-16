@@ -1,7 +1,7 @@
 {
   "name": "amp-url",
-  "version": "1.0.0",
-  "author": "kmrk",
+  "version": "1.0.1",
+  "author": "kimulaco",
   "license": "MIT",
   "description": "Accelerated Mobile Pages (AMP) URL API library",
   "keywords": [
@@ -9,10 +9,10 @@
     "AMP HTML",
     "Accelerated Mobile Pages"
   ],
-  "homepage": "https://github.com/kmrk/amp-url-nodejs",
+  "homepage": "https://github.com/kimulaco/node-amp-url",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kmrk/amp-url-nodejs"
+    "url": "https://github.com/kimulaco/node-amp-url"
   },
   "main": "amp-url.js",
   "scripts": {

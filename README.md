@@ -1,4 +1,4 @@
-# amp-url-nodejs
+# node-amp-url
 
 [Accelerated Mobile Pages (AMP) URL API](https://developers.google.com/amp/cache/reference/acceleratedmobilepageurl/rest/) node.js library.
 It is necessary to enable API on [Google Cloud Platform](https://cloud.google.com/) and obtain API key.
@@ -65,4 +65,4 @@ ampUrl.batchGet([
 
 ## License
 
-[MIT License](https://github.com/kmrk/amp-url-nodejs/blob/master/LICENSE).
+[MIT License](https://github.com/kimulaco/node-amp-url/blob/master/LICENSE).
